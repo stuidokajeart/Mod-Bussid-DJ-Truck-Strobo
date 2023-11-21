@@ -1,0 +1,29 @@
+{
+  "Ads": [
+    {
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-5577068306639145/2450166494",
+      "main_ads_natives": "ca-app-pub-5577068306639145/9235066698",
+      "main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+      "open_ads_admob": "ca-app-pub-5577068306639145/2837766039",
+      "interval_intertitial": 2,
+      "high_paying_keyword_1": "resume builder, cv maker,",
+      "high_paying_keyword_2": "airdrop, cryptos",
+      "high_paying_keyword_3": "pinjol",
+      "high_paying_keyword_4": "pinjaman online",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "DATA": [
+    {
+      "id": "1628",
+      "category": "Bus",
+      "title": "Nafit Trans JB5 Hino",
+      "image": "https://iili.io/JqhSbhG.jpg",
+      "link_mods": "https://mapes.maybusid.my.id/mod/bus/Sinar%20Jaya%20JB5%20Hino.bussidmod",
+      "link_livery": "https://mapes.maybusid.my.id/mod/liv/NAFIT%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
+    }
+  ]
+}
