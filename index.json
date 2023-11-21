@@ -24,6 +24,47 @@
       "image": "https://iili.io/JqhSbhG.jpg",
       "link_mods": "https://mapes.maybusid.my.id/mod/bus/Sinar%20Jaya%20JB5%20Hino.bussidmod",
       "link_livery": "https://mapes.maybusid.my.id/mod/liv/NAFIT%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
-    }
+    },
+    {
+      "id": "1",
+      "category": "Bus",
+      "title": "27 Trans JB5 Hino",
+      "image": "https://domurigu.com/Data%20Android/Bussid/TRUCK/1/1.jpg",
+      "link_mods": "https://mapes.maybusid.my.id/mod/bus/Sinar%20Jaya%20JB5%20Hino.bussidmod",
+      "link_livery": "https://mapes.maybusid.my.id/mod/liv/NAFIT%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
+},
+{
+      "id": "2",
+      "category": "Bus",
+      "title": "Deep Purple JB3+ Full Acc",
+      "image": "https://domurigu.com/DataAndroid/Bussid/Bus/2/1.jpg",
+      "link_mods": "https://domurigu.com/DataAndroid/Bussid/Bus/2/JETBUS%203%20SPEK%20FULL%20ACC%20SPOILER.bussidmod",
+      "link_livery": "https://domurigu.com/DataAndroid/Bussid/Bus/2/deeppruple.png"
+},
+{
+      "id": "3",
+      "category": "Bus",
+      "title": "Muji Jaya JB3+ Full Acc",
+      "image": "https://domurigu.com/DataAndroid/Bussid/Bus/3/1.jpg",
+      "link_mods": "https://domurigu.com/DataAndroid/Bussid/Bus/3/JETBUS 3 SPEK FULL ACC SPOILER.bussidmod",
+      "link_livery": "https://domurigu.com/DataAndroid/Bussid/Bus/3/Muji jaya jb3.png"
+},
+{
+      "id": "4",
+      "category": "Bus",
+      "title": "Nafit Trans JB5 Hino",
+      "image": "https://domurigu.com/DataAndroid/Bussid/Bus/4/1.jpg",
+      "link_mods": "https://domurigu.com/DataAndroid/Bussid/Bus/4/Sinar Jaya JB5 Hino.bussidmod",
+      "link_livery": "https://domurigu.com/DataAndroid/Bussid/Bus/4/NAFIT TRANS MOD JB5 TRYIO DIECASTER BY GARASI TUBE.png"
+},
+{
+      "id": "5",
+      "category": "Bus",
+      "title": "Pangeran JB3+ Full Acc",
+      "image": "https://domurigu.com/DataAndroid/Bussid/Bus/5/1.jpg",
+      "link_mods": "https://domurigu.com/DataAndroid/Bussid/Bus/5/JETBUS 3 SPEK FULL ACC SPOILER.bussidmod",
+      "link_livery": "https://domurigu.com/DataAndroid/Bussid/Bus/5/pangeran jb3 shd mnxae by geofany.png"
+}
+
   ]
 }
